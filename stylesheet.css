@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lightningvolt';
+    src:url('https://github.com/ricjokar/fonts/blob/main/Lightningvolt.woff') format('woff'),
+        url('https://github.com/ricjokar/fonts/blob/main/Lightningvolt.woff2') format('woff2'),
+        url('https://github.com/ricjokar/fonts/blob/main/Lightningvolt.eot'),
+        url('https://github.com/ricjokar/fonts/blob/main/Lightningvolt.eot?#iefix') format('embedded-opentype'),
+        url('https://github.com/ricjokar/fonts/blob/main/Lightningvolt.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
